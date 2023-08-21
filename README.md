@@ -1,5 +1,2 @@
-# Demo
-
-Learning how to use Git.
-Hello world!
-asdasdasd
+#Demo
+Teste teste
